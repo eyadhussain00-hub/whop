@@ -1,0 +1,11 @@
+{
+  "brand": "douxds",
+  "caption": "Bumps and dark marks are the first thing people notice. FADE by Douxds is the dark spot fader serum built for it.",
+  "slides": [
+    { "text": "Bad Skin Is Holding Your Face Back", "image": "douxds-02/assets/hook_cheek_bumps.jpg" },
+    { "text": "Bumps. Dark marks. Uneven skin.", "sub": "Exactly what *Douxds* is made for", "image": "douxds-02/assets/problem_bumps_beard.jpg" },
+    { "text": "Clear, even skin", "sub": "The goal of every *Douxds* routine" },
+    { "text": "Douxds FADE", "sub": "Dark spot fader serum", "image": "douxds-02/assets/fade_gold.jpg", "product": true },
+    { "text": "Grab Your Douxds Kit At douxds.com", "image": "douxds-02/assets/fade_closeup.jpg", "product": true }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "whop-clipping",
+  "private": true,
+  "type": "module",
+  "description": "Whop Content Rewards clipping: slideshow and clip tools, post files and history.",
+  "scripts": {
+    "slides": "node tools/slides/slides.mjs",
+    "clips": "node tools/clips/clip.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.64.0"
+  }
+}
